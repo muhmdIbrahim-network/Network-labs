@@ -14,17 +14,17 @@ The labs were created using **Cisco Packet Tracer** and cover key networking top
 
 ## 🚀 Available Labs  
 
-| **Lab Name**              | **Description** |
+| **Lab Name**              | **Description** | **Download** |
 |---------------------------|------------------------------------------------------------|
-| **Subnetting & VLSM**     | Learn how to subnet a network and apply VLSM efficiently. |
-| **Router Basics**         | Understand basic router configuration commands. |
-| **Static Routing**        | Configure and test static routing between multiple routers. |
-| **OSPF Routing**         | Implement single-area OSPF and verify connectivity. |
-| **EIGRP Routing**        | Configure and optimize EIGRP for dynamic routing. |
-| **DHCP**                 | Set up a DHCP server to assign IPs dynamically. |
-| **VLANs**                | Create VLANs and configure trunk links between switches. |
-| **ACLs (Standard & Extended)** | Apply access control lists to filter traffic. |
-| **NAT**                  | Configure NAT to enable internet access for private networks. |
+| **Subnetting & VLSM**     | Learn how to subnet a network and apply VLSM efficiently. 
+| **Router Basics**         | Understand basic router configuration commands. 
+| **Static Routing**        | Configure and test static routing between multiple routers. 
+| **OSPF Routing**         | Implement single-area OSPF and verify connectivity.
+| **EIGRP Routing**        | Configure and optimize EIGRP for dynamic routing.
+| **DHCP**                 | Set up a DHCP server to assign IPs dynamically. 
+| **VLANs**                | Create VLANs and configure trunk links between switches. 
+| **ACLs (Standard & Extended)** | Apply access control lists to filter traffic. 
+| **NAT**                  | Configure NAT to enable internet access for private networks. 
 
 ---
 
