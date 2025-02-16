@@ -1,21 +1,35 @@
-# Network Labs Repository  
+# 📡 Network Labs Repository  
 
-This repository contains a collection of networking labs designed for CCNA practice. The labs were created using Packet Tracer and cover various networking topics.  
+This repository contains a collection of **networking labs** designed for CCNA practice.  
+The labs were created using **Cisco Packet Tracer** and cover key networking topics.  
 
-## Available Labs  
-1. **Subnetting & VLSM**
-2. **Router basic**  
-3. **Static Routing**  
-4. **OSPF Routing**
-5. **EIGRP Routting**
-6. **DHCP**
-7. **VLANS**
-8. **ACLs (Standard & Extended) (Coming soon)**  
-9. **NAT (Coming Soon)** 
+🔹 **Topics Covered:**  
+✅ Subnetting & VLSM  
+✅ Static & Dynamic Routing (RIP, OSPF, EIGRP)  
+✅ VLANs & Trunking  
+✅ Access Control Lists (ACLs)  
+✅ DHCP & NAT  
 
-## How to Use  
-- Download the `.pkt` files and open them using Cisco Packet Tracer.  
-- Follow the provided configurations to practice networking concepts.  
+---
 
-## About  
-This repository is regularly updated with new labs and configurations.  
+## 🚀 Available Labs  
+
+| **Lab Name**              | **Description** |
+|---------------------------|------------------------------------------------------------|
+| **Subnetting & VLSM**     | Learn how to subnet a network and apply VLSM efficiently. |
+| **Router Basics**         | Understand basic router configuration commands. |
+| **Static Routing**        | Configure and test static routing between multiple routers. |
+| **OSPF Routing**         | Implement single-area OSPF and verify connectivity. |
+| **EIGRP Routing**        | Configure and optimize EIGRP for dynamic routing. |
+| **DHCP**                 | Set up a DHCP server to assign IPs dynamically. |
+| **VLANs**                | Create VLANs and configure trunk links between switches. |
+| **ACLs (Standard & Extended)** | Apply access control lists to filter traffic. |
+| **NAT**                  | Configure NAT to enable internet access for private networks. |
+
+---
+
+## 📥 How to Use  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/muhmdIbrahim-network/Network-labs.git
